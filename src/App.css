@@ -9,7 +9,8 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  /* background-image: url(https://cdn.pixabay.com/photo/2019/10/18/19/51/financial-4560047_960_720.jpg); */
+  background-color: #ccbaf5; 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -90,7 +91,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #5434f2;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
